@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  TodoApp
 //
-//  Created by Yuya Fujita on 2024/03/11.
+//  Created by Atsutama on 2024/03/11.
 //
 
 import SwiftUI
